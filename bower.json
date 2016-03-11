@@ -1,0 +1,25 @@
+{
+  "name": "myfirstpackage",
+  "description": "test package for bower",
+  "main": "tt.js",
+  "moduleType": [],
+  "keywords": [
+    "test",
+    "bower"
+  ],
+  "authors": [
+    "John Resig <jeresig@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gouthamigogineni/myfirstpackage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
